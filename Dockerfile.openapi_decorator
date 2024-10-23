@@ -1,4 +1,4 @@
-FROM node:18.15-alpine
+FROM node:18.15-alpine://www.youtube.com@-
 
 RUN apk add --no-cache git python make g++
 
